@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo: #ffffff;
+    --cor-fonte-principal:#161515;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    }
