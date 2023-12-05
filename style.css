@@ -1,6 +1,9 @@
+@import url(./stylees/footer.css);
+
 :root{
     --cor-de-fundo: #ffffff;
     --cor-fonte-principal:#161515;
+    --cor-fonte-secundaria: #d41f1f9a; 
 }
 
 *{

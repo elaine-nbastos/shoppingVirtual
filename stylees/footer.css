@@ -1,0 +1,10 @@
+
+
+.rodape{
+    border-top: 1px solid var(--cor-fonte-principal);
+    background-color: aqua;
+}
+
+.rodape__texto{
+    color: var(--cor-fonte-secundaria);
+}
